@@ -3484,7 +3484,7 @@ App Landing CSS
 /* Powerful Area */
 .powerful-area {
   background-color: #567df4;
-  border-radius: 0px 0px 700px 0px;
+  border-radius: 0px 0px 0px 0px;
 }
 
 .powerful-area .section-title {
@@ -4077,7 +4077,7 @@ App Landing CSS
     transform: translate(0px, 0px) rotate(0deg);
   }
 }
-.bg-about {
+.bg_about {
   background-image: url(../images/hod/60d97770403a8.jpg);
   background-position: center center;
   background-size: cover;
